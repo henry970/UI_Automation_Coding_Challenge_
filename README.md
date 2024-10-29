@@ -125,7 +125,7 @@ This guide will walk you through setting up a GitHub repository, creating a virt
 
 ---
 
-### Step 5: Verify the Workflow
+### Step 4: Verify the Workflow
 
 1. **Check GitHub Actions:**
    - Go to your GitHub repository and open the **Actions** tab.
